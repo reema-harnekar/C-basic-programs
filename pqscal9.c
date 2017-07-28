@@ -16,18 +16,7 @@ int main ()
 	{
 		printf("\n");
 	}
-		/*for (row=1;row<=1;row--)
-	{
-		for (col=1;col<=5;col++)
-		{
-			printf(" ");
-		}
-		for (col=1;col<=row;col++)
-		{
-		printf("%d",row);
-	    }
-		printf("\n");
-	}*/
+		
    	return 0;
 }
 
